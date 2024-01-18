@@ -1,0 +1,7 @@
+{
+    "name": "GrenadeTurret",
+    "version_number" : "1.0.0",
+    "website_url" : "https://github.com/incub4t0r/LC_GrenadeTurret",
+    "description" : "Amp up your gameplay by replacing the turret bullets with grenades!",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
